@@ -6,5 +6,6 @@ Chat Application is the program developed using the language of java where it en
   <li>Run the Server file </li>
   <li>Run the Client and Client Handler files which were person1 and person2 respectively to enable of the GUI interface for both</li>
  </ul>
+ 
   
   
